@@ -1,0 +1,9 @@
+print("hello world")
+print("Do u like coding?")
+x = input("Answer yes or no -> ")
+if x == "yes":
+    print("Nice")
+elif x == "Yes":
+    print("sweet!")
+else:
+    print("Aww :(")
